@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sep208
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning node.js mongo.db
+- 🌱 I’m currently learning node.js mongo.db and react.js
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me infernocodinghq@gmail.com
 
