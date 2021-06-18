@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sep208
-- 👀 I’m interested in coding
+- 👋 Hi, I’m @sep208 || Inferno_Dev
+- 👀 I’m interested in Web development Proggraming and Mountain biking
 - 🌱 I’m currently learning node.js postgresSQL advanced CSS and react.js
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me infernocodinghq@gmail.com
